@@ -1,0 +1,12 @@
+﻿  Practice1.cpp
+E:\Winter Practice\winter-vacation-code-practice\Winter Practice Day1\Winter Practice Day1\Practice1.cpp(44,27): error C2061: 语法错误: 标识符“vector”
+E:\Winter Practice\winter-vacation-code-practice\Winter Practice Day1\Winter Practice Day1\Practice1.cpp(47,29): error C2065: “k”: 未声明的标识符
+E:\Winter Practice\winter-vacation-code-practice\Winter Practice Day1\Winter Practice Day1\Practice1.cpp(49,20): error C2065: “nums”: 未声明的标识符
+E:\Winter Practice\winter-vacation-code-practice\Winter Practice Day1\Winter Practice Day1\Practice1.cpp(52,22): error C2065: “k”: 未声明的标识符
+E:\Winter Practice\winter-vacation-code-practice\Winter Practice Day1\Winter Practice Day1\Practice1.cpp(52,29): error C2065: “nums”: 未声明的标识符
+E:\Winter Practice\winter-vacation-code-practice\Winter Practice Day1\Winter Practice Day1\Practice1.cpp(54,20): error C2065: “nums”: 未声明的标识符
+E:\Winter Practice\winter-vacation-code-practice\Winter Practice Day1\Winter Practice Day1\Practice1.cpp(54,29): error C2065: “k”: 未声明的标识符
+E:\Winter Practice\winter-vacation-code-practice\Winter Practice Day1\Winter Practice Day1\Practice1.cpp(54,30): error C7732: expected an expression before ']'
+E:\Winter Practice\winter-vacation-code-practice\Winter Practice Day1\Winter Practice Day1\Practice1.cpp(55,20): error C2065: “nums”: 未声明的标识符
+E:\Winter Practice\winter-vacation-code-practice\Winter Practice Day1\Winter Practice Day1\Practice1.cpp(56,22): error C3861: “max”: 找不到标识符
+E:\Winter Practice\winter-vacation-code-practice\Winter Practice Day1\Winter Practice Day1\Practice1.cpp(58,25): error C2065: “k”: 未声明的标识符
