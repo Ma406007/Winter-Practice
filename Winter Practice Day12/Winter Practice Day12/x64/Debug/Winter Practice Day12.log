@@ -1,0 +1,3 @@
+﻿  Practice12.cpp
+E:\Winter Practice\winter-vacation-code-practice\Winter Practice Day12\Winter Practice Day12\Practice12.cpp(166,5): error C2065: “vector”: 未声明的标识符
+E:\Winter Practice\winter-vacation-code-practice\Winter Practice Day12\Winter Practice Day12\Practice12.cpp(166,12): error C2062: 意外的类型“int” 

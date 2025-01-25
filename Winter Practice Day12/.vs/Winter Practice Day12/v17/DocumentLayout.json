@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Winter Practice\\winter-vacation-code-practice\\Winter Practice Day12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F934794-7726-404D-93B8-AC1813AB7DD5}|Winter Practice Day12\\Winter Practice Day12.vcxproj|E:\\Winter Practice\\winter-vacation-code-practice\\Winter Practice Day12\\Winter Practice Day12\\Practice12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F934794-7726-404D-93B8-AC1813AB7DD5}|Winter Practice Day12\\Winter Practice Day12.vcxproj|solutionrelative:Winter Practice Day12\\Practice12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practice12.cpp",
+              "DocumentMoniker": "E:\\Winter Practice\\winter-vacation-code-practice\\Winter Practice Day12\\Winter Practice Day12\\Practice12.cpp",
+              "RelativeDocumentMoniker": "Winter Practice Day12\\Practice12.cpp",
+              "ToolTip": "E:\\Winter Practice\\winter-vacation-code-practice\\Winter Practice Day12\\Winter Practice Day12\\Practice12.cpp",
+              "RelativeToolTip": "Winter Practice Day12\\Practice12.cpp",
+              "ViewState": "AgIAABoBAAAAAAAAAAAIwCkBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-25T05:54:46.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
